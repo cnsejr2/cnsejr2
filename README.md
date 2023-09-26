@@ -75,7 +75,7 @@
 
 <h2> My Repo ✌️ </h2>
 <p align="left">
-  <a href="https://github.com/laskdjlaskdj12/SpyGame">
+  <a href="https://github.com/cnsejr2/BOARD">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnsejr2&repo=BOARD" />
   </a>
 </p>
