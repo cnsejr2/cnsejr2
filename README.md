@@ -1,4 +1,7 @@
-### Hi Lee Young-Eun 👋
+
+
+<h3> 🤗 Full Stack Developer 🤗 </h3>
+
 
 <h2> My tech stack 📚 </h2>
 
@@ -63,12 +66,19 @@
 <br/>
 
 <h2> My Languages ✌️ </h2>
-<div align=center> 
+<div align=left> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnsejr2&layout=compact&theme=merko)
 
 
 </div>
+
+<h2> My Repo ✌️ </h2>
+<p align="left">
+  <a href="https://github.com/laskdjlaskdj12/SpyGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnsejr2&repo=BOARD" />
+  </a>
+</p>
 
 <!--
 **cnsejr2/cnsejr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
