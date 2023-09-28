@@ -78,6 +78,9 @@
   <a href="https://github.com/cnsejr2/BOARD">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnsejr2&repo=BOARD" />
   </a>
+  <a href="https://github.com/cnsejr2/coding">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnsejr2&repo=coding" />
+  </a>
 </p>
 
 <!--
