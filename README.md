@@ -1,6 +1,6 @@
 
 
-<h3> 🤗 Full Stack Developer 🤗 </h3>
+<h3>  Full Stack Developer  </h3>
 
 
 <h2> My tech stack 📚 </h2>
