@@ -73,6 +73,16 @@
 
 </div>
 
+
+
+<h2> My Rank 😊 & My Goal 🅰️ </h2>
+<div align=left> 
+
+![YoungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnsejr2&show_icons=true&theme=transparent)
+
+
+</div>
+
 <h2> My Repo ✌️ </h2>
 <p align="left">
   <a href="https://github.com/cnsejr2/BOARD">
