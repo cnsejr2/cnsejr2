@@ -80,7 +80,7 @@
 
 ![YoungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnsejr2&show_icons=true&theme=transparent)
 
-
+[![코드트리|실력진단-cnsejr2](https://banner.codetree.ai/v1/banner/cnsejr2)](https://www.codetree.ai/profiles/cnsejr2)
 </div>
 
 <h2> My Repo ✌️ </h2>
